@@ -113,12 +113,12 @@ const About = () => {
           <div className="flex" style={{ justifyContent: "center" }}>
             <div className="frame">
               <a
-                href="https://www.linkedin.com/in/sukrit-saha-b6117a242/"
+                href="https://www.linkedin.com/in/warner-imran-0bb1a6283/"
                 className="btn"
               >
                 <img src={LinkedIn} alt="linkedin-logo" />
               </a>
-              <a href="https://github.com/Sukrittt" className="btn">
+              <a href="https://github.com/Mohammed-Imran-Khan?tab=repositories" className="btn">
                 <img src={GitHub} alt="github-logo" />
               </a>
             </div>
